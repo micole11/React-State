@@ -1,0 +1,15 @@
+
+
+.Btn {
+  background-color: yellowgreen;
+  color: white;
+  border-style: none;
+  width: 10%;
+  height: 10%;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+.biop {
+  text-align: center;
+}
